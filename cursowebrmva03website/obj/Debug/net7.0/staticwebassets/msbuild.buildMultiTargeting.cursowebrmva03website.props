@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cursowebrmva03website.props" />
+</Project>
